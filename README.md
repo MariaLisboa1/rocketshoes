@@ -20,13 +20,13 @@ clone this repository: `git clone https://github.com/MariaLisboa1/rocketshoes.gi
 
 1 - `npm start`
 
-### Starting the BackEnd
+## Starting the BackEnd
 
-## Installing json-server
+### Installing json-server
 
 1 - `npm install -g json-server`
 
-## Run the Server BackEnd
+### Run the Server BackEnd
 
 1 - `json-server server.json -p 3333`
 
